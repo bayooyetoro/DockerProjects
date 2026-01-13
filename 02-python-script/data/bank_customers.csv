@@ -1,0 +1,6 @@
+Customer_ID,Customer_Name,Account_Type,Account_Balance,Currency,Branch,Account_Status
+1001,John Doe,Savings,12500.75,USD,New York,Active
+1002,Jane Smith,Checking,3420.5,USD,Chicago,Active
+1003,Michael Brown,Savings,9800.0,USD,San Francisco,Inactive
+1004,Emily Davis,Checking,150.25,USD,Boston,Active
+1005,Robert Wilson,Savings,22000.9,USD,Seattle,Active
